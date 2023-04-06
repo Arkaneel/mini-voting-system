@@ -39,7 +39,7 @@ YOU ARE WARMLY ALLOWED TO MAKE CHANGES IN THIS PROJECT AND TAKE IT TO PRODUCTION
 
 # SOCIAL
 
-![Twitter Follow](https://img.shields.io/twitter/follow/_Arkaneel_Roy_?color=blue&style=for-the-badge&logo=twitter)
+![Twitter Follow](https://img.shields.io/twitter/follow/_Arkaneel_Roy_?color=blue&style=for-the-badge&logo=twitter)(https://mobile.twitter.com/_Arkaneel_Roy_)
 
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/mac_n__cheese?color=orange&style=for-the-badge&logo=reddit)
 
